@@ -1,4 +1,4 @@
 hghjfhjghfhjghhhj
 
-'''bash
+```bash
 npm install
