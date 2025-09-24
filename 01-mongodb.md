@@ -8,7 +8,7 @@ Make sure we are in root access or not to get root access
  ```
 
 ```
-vim/etc/yum.repos.d/mongo.repo
+vim /etc/yum.repos.d/mongo.repo
 ```
 
 ```
