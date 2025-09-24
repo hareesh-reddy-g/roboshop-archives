@@ -32,7 +32,8 @@ dnf install nodejs -y
   ```
 
   Download the application code to created app directory.
-  ```curl -L -o /tmp/user.zip https://roboshop-artifacts.s3.amazonaws.com/user-v3.zip 
+```
+curl -L -o /tmp/user.zip https://roboshop-artifacts.s3.amazonaws.com/user-v3.zip 
 ```
 ```
 cd /app
