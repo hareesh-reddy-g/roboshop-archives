@@ -1,6 +1,11 @@
+
 Firstly we have to setup the mongodb repo file
 
 Setup the MongoDB repo file 
+Make sure we are in root access or not to get root access
+ ```
+ sudo su -
+ ```
 
 ```
 vim/etc/yum.repos.d/mongo.repo
