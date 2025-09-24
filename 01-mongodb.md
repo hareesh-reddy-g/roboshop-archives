@@ -36,7 +36,7 @@ netstat -lntp
 For mongodb default open port is 127.0.0.1.27017 but internet notation is 0.0.0.0.27017
 For update notation
 ```
-vim/etc/mongod.conf
+vim /etc/mongod.conf
 ```
 Restart the service to make the changes affected
 ```
