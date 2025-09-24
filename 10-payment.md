@@ -1,5 +1,9 @@
 This service is responsible for payments in RoboShop e-commerce app. This service is written on Python 3.x, So need it to run this app.
-
+Make sure we are in root access or not to get root access
+ ```
+ sudo su -
+ ```
+ 
 Install Python 3
 ```
 dnf install python3 gcc python3-devel -y
